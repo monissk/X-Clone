@@ -16,9 +16,6 @@ This project replicates the modern UI of the X web app, including sidebar naviga
 - **Google Fonts**
 - **SVG Icons**
 
-## 📸 Screenshots
-*(Add screenshots of the UI here)*
-
 ## 📂 Folder Structure
 ├── index.html # Main HTML file
 ├── src/
